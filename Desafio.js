@@ -40,10 +40,10 @@ console.log("----------------------------------------");
 console.log(`O ${classe} ${nome} de nivel ${nivel}, nasceu em um mundo muito avancado tecnologicamente e onde era comum todos terem magia.`)
 console.log(`Porém ele era um mero plebeu na infancia que nao morava na cidade principal que se chamava Techlending.`);
 console.log("E infelizmente ele nasceu sem uma das coisas mais estimadas daquele mundo... A MAGIA!!");
-console.log("Só que treinava muito e muito todos os dias, um menino gentil e carinhoso");
-console.log(`Em um dia os techdemons chegaram em sua vila, foram quebrando tudo, e quando nao se tinha mais esperança... um cajado divino, a ${NOMEARMA}, com uma raridade muito antiga e perdida pelos seculos, a ${RARIDADEARMA}, o cajado de dano ${DANO_BASE} desce dos céus nos pés de um enorme dragão, e vem em direção de Arthur.`);
+console.log("Só que treinava muito e muito todos os dias, um menino gentil e carinhoso.");
+console.log(`Em um dia os techdemons chegaram em sua vila, foram quebrando tudo, e quando nao se tinha mais esperança... Um cajado divino, a ${NOMEARMA}, com uma raridade muito antiga e perdida pelos seculos, a ${RARIDADEARMA}, o cajado de dano ${DANO_BASE} desce dos céus nos pés de um enorme dragão, e vem em direção de Arthur.`);
 console.log(`Nesse momento ele é envolto de uma armadura magica, a ${NOMEARMADURA}, sobe em seu mais novo dragão e pega o cajado ${NOMEARMA}, somente com o balancar de seu cajado derrota todos os inimigos que ameaçavam sua amada vila.`);
 console.log("Assim ele se sente no direito de ajudar todos que passam essas dificildades e faz o objetivo de derrotar o... Rei Demônio, guardião dos infernos e lider de todos os malsweres e demônios.");
-console.log(`Vida suficiente? ${vidaSulficiente} | Ataque forte? ${ataqueForte} | Nível avançado? ${nivelAvancado}`);
-console.log("Entâo enquanto envelhece e cresce, cada vez mais forte, crescendo em força exponencialmente. Ele vai derrotando os demonios e malweres")
-console.log(`Pode enfrentar o Rei Demônio? ${podeenfrentarGuardiao}. Quando chega, `)
+console.log(`Vida suficiente? ${vidaSulficiente} | Ataque forte? ${ataqueForte} | Nível avançado? ${nivelAvancado}.`);
+console.log("Entâo enquanto envelhece e cresce, cada vez mais forte, crescendo em força exponencialmente. Ele vai derrotando os demonios e malweres");
+console.log(`Pode enfrentar o Rei Demônio? ${podeenfrentarGuardiao}. Quando chega, derrota o Rei Demônio com um único golpe e salva o mundo. Sendo declarado o novo rei e guardião do planeta, assim segue em seu papel de guardiao ${nome}.`);
