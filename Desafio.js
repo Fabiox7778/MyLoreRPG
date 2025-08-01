@@ -33,7 +33,7 @@ let defesaTotal = DEFESA_BASE + (nivel / 2);
 let vidaSulficiente = vida >= 70;
 let ataqueForte = ataqueTotal >= 60;
 let nivelAvancado = nivel >= 10;
-let podeenfrentarGuardiao = vidaSulficiente + (ataqueForte || nivelAvancado);
+let podeenfrentarGuardiao = vidaSulficiente && (ataqueForte || nivelAvancado);
 
 console.log("🧾 LORE DO HERÓI: Arthur Targaryen");
 console.log("----------------------------------------");
